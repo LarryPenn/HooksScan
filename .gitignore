@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Downloaded contract folders (if you want to ignore them, uncomment below)
+# 0x*/
+
+# Output and temp files
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+
+# VSCode settings
+.vscode/

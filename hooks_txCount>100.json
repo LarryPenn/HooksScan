@@ -1,0 +1,422 @@
+{
+  "data": {
+    "pools": [
+      {
+        "createdAtTimestamp": "1739400491",
+        "hooks": "0x62ee80f068dce30ea4a275e91bb733fb17fd0ac0",
+        "id": "0x171d8b47eaa993d4c6db92c1fb0761883cee99eaffc0094d4cb82df16ea5a3f3",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+          "name": "Grow",
+          "symbol": "GROW"
+        },
+        "txCount": "1345"
+      },
+      {
+        "createdAtTimestamp": "1746029219",
+        "hooks": "0xede8ec3dbb11055a736612e174ab7b0b41028ac0",
+        "id": "0x1aaa20ee0ec2dc500ecc57b38f9ee70b76f676db15c87627e40d5a34f7dbda6f",
+        "token0": {
+          "id": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+          "name": "Grow",
+          "symbol": "GROW"
+        },
+        "token1": {
+          "id": "0x600d601d8b9eb5de5ac90fefc68d0d08801bfd3f",
+          "name": "Element",
+          "symbol": "ELMT"
+        },
+        "txCount": "211"
+      },
+      {
+        "createdAtTimestamp": "1744125311",
+        "hooks": "0x83863f772f93e2a209dab0af924ca3d6764a40c4",
+        "id": "0x213e51b8b389f22a4df4bc781fd38dd38b36c80bc4fa076a75c31b22c3e6d4cd",
+        "token0": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "token1": {
+          "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+          "name": "Kyber Network Crystal v2",
+          "symbol": "KNC"
+        },
+        "txCount": "114"
+      },
+      {
+        "createdAtTimestamp": "1740810707",
+        "hooks": "0xede8ec3dbb11055a736612e174ab7b0b41028ac0",
+        "id": "0x2b83bb2bbd39c1b50dbadd6e545f41a3456e229b9d62e04da2b8ba7a09d7854e",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x19640000000ba88d36206beb10d0e86011c8d08c",
+          "name": "Rally",
+          "symbol": "RALLY"
+        },
+        "txCount": "809"
+      },
+      {
+        "createdAtTimestamp": "1744867163",
+        "hooks": "0x83863f772f93e2a209dab0af924ca3d6764a40c4",
+        "id": "0x3f59087d6836bcb67fe998d146c798a2f054228a7a6edd6e8c53f5068f03e7fb",
+        "token0": {
+          "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+          "name": "USDe",
+          "symbol": "USDe"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "txCount": "414"
+      },
+      {
+        "createdAtTimestamp": "1743607235",
+        "hooks": "0x0000fe59823933ac763611a69c88f91d45f81888",
+        "id": "0x413535983fcfe0f1a036d497cd402bfdbc24661bf46d048e7df24e97c3e99008",
+        "token0": {
+          "id": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+          "name": "Resolv USD",
+          "symbol": "USR"
+        },
+        "token1": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "txCount": "263"
+      },
+      {
+        "createdAtTimestamp": "1739400047",
+        "hooks": "0x62ee80f068dce30ea4a275e91bb733fb17fd0ac0",
+        "id": "0x454a01ee2955a7467aea2b5455cda68f5b1d0bb719f0bbc4ccd66f6d9a3b32cf",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+          "name": "Grow",
+          "symbol": "GROW"
+        },
+        "txCount": "181"
+      },
+      {
+        "createdAtTimestamp": "1738365047",
+        "hooks": "0x0010d0d5db05933fa0d9f7038d365e1541a41888",
+        "id": "0x6fbd7ab3e52fea2a986a24990db57b8a5a90c8769bfd9cbc0c276541fcb73e53",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x000000c396558ffbab5ea628f39658bdf61345b3",
+          "name": "Bunni",
+          "symbol": "BUNNI"
+        },
+        "txCount": "122"
+      },
+      {
+        "createdAtTimestamp": "1746083039",
+        "hooks": "0x83863f772f93e2a209dab0af924ca3d6764a40c4",
+        "id": "0x76fb560764cf09ced9c300a729ebd0fc03c1af6bb27b897eb9fdb9304a567bc1",
+        "token0": {
+          "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+          "name": "USDe",
+          "symbol": "USDe"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "txCount": "223"
+      },
+      {
+        "createdAtTimestamp": "1739443211",
+        "hooks": "0x0010d0d5db05933fa0d9f7038d365e1541a41888",
+        "id": "0x77f73405a72f844e46d26a0bfd6f145c1a45ffcf6e4af5c86811405f29d2e615",
+        "token0": {
+          "id": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+          "name": "Resolv USD",
+          "symbol": "USR"
+        },
+        "token1": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "txCount": "706"
+      },
+      {
+        "createdAtTimestamp": "1740666839",
+        "hooks": "0x5287e8915445aee78e10190559d8dd21e0e9ea88",
+        "id": "0x8b499949d9170e610de7c8cb5afeb4f18ebaeeccba5b5388ac81613203fbc3a9",
+        "token0": {
+          "id": "0x479657445b35fc57736c4ca7d0410ae7190cf692",
+          "name": "wstETH5CT-2",
+          "symbol": "wstETH5CT-2"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "txCount": "135"
+      },
+      {
+        "createdAtTimestamp": "1746030095",
+        "hooks": "0xede8ec3dbb11055a736612e174ab7b0b41028ac0",
+        "id": "0x8e7253e46eba95dc1fd4448266e2bf497075ad79c73fbd28dc1742b7c524db7f",
+        "token0": {
+          "id": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+          "name": "Grow",
+          "symbol": "GROW"
+        },
+        "token1": {
+          "id": "0x19640000000ba88d36206beb10d0e86011c8d08c",
+          "name": "Rally",
+          "symbol": "RALLY"
+        },
+        "txCount": "388"
+      },
+      {
+        "createdAtTimestamp": "1738364735",
+        "hooks": "0x0010d0d5db05933fa0d9f7038d365e1541a41888",
+        "id": "0x9148f00424c4b40a9ec4b03912f091138e9e91a60980550ed97ed7f9dc998cb5",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x000000c396558ffbab5ea628f39658bdf61345b3",
+          "name": "Bunni",
+          "symbol": "BUNNI"
+        },
+        "txCount": "954"
+      },
+      {
+        "createdAtTimestamp": "1738858355",
+        "hooks": "0xa6c8d7514785c4314ee05ed566cb41151d43c0c0",
+        "id": "0x96b922a41990fa5a2a04e92266e143bd3c5fbb254621e517b14d45ee537b9063",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "txCount": "203"
+      },
+      {
+        "createdAtTimestamp": "1740425591",
+        "hooks": "0xede8ec3dbb11055a736612e174ab7b0b41028ac0",
+        "id": "0xc40e1573e68ac4c52d59ef61f376df3c893bb9549a31a07d9c5b58d968641fdc",
+        "token0": {
+          "id": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+          "name": "Grow",
+          "symbol": "GROW"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "txCount": "1480"
+      },
+      {
+        "createdAtTimestamp": "1739913179",
+        "hooks": "0x0000fe59823933ac763611a69c88f91d45f81888",
+        "id": "0xc9db15d150005b5dc19a313a57a2e48d941ea68fafa4405472a3c86a511a8bca",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "txCount": "436"
+      },
+      {
+        "createdAtTimestamp": "1738531223",
+        "hooks": "0x0010d0d5db05933fa0d9f7038d365e1541a41888",
+        "id": "0xccc788002cf655b20e41330bd9af113fd7df7cdebe68367574ea28cab1d59768",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+          "name": "Wrapped liquid staked Ether 2.0",
+          "symbol": "wstETH"
+        },
+        "txCount": "171"
+      },
+      {
+        "createdAtTimestamp": "1741748123",
+        "hooks": "0x12b504160222d66c38d916d9fba11b613c51e888",
+        "id": "0xd233d590a34569a9256d167d3990c1164e357ad6cb76eef4e043358f4f6bf343",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0xa250cc729bb3323e7933022a67b52200fe354767",
+          "name": "Few Wrapped Wrapped Ether",
+          "symbol": "fwWETH"
+        },
+        "txCount": "214"
+      },
+      {
+        "createdAtTimestamp": "1740994139",
+        "hooks": "0x0000fe59823933ac763611a69c88f91d45f81888",
+        "id": "0xdd0c5e7f3b4c292e74f26d74ce9eb6f90b63af139f2166f6d3ea8b560cf1f0ac",
+        "token0": {
+          "id": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+          "name": "Resolv USD",
+          "symbol": "USR"
+        },
+        "token1": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "txCount": "188"
+      },
+      {
+        "createdAtTimestamp": "1739421527",
+        "hooks": "0x62ee80f068dce30ea4a275e91bb733fb17fd0ac0",
+        "id": "0xe0aded3b72c369a5a891b1d0b7c54b8d81c34451181456400ec1da1f3e03e968",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x19640000000ba88d36206beb10d0e86011c8d08c",
+          "name": "Rally",
+          "symbol": "RALLY"
+        },
+        "txCount": "2543"
+      },
+      {
+        "createdAtTimestamp": "1746150095",
+        "hooks": "0x99d32f38aa4d1ec911420cba3b52d11cb9f0b0c0",
+        "id": "0xe8ae71f498139a99b28c0208279e60801776ed642143eeecde91f4fbd673fc93",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "txCount": "169"
+      },
+      {
+        "createdAtTimestamp": "1742326955",
+        "hooks": "0x0000fe59823933ac763611a69c88f91d45f81888",
+        "id": "0xf1506c6ff1af13aae194b70be19bde1499c25e4273262df134cecf336b4a8dcf",
+        "token0": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "txCount": "380"
+      },
+      {
+        "createdAtTimestamp": "1744545935",
+        "hooks": "0x83863f772f93e2a209dab0af924ca3d6764a40c4",
+        "id": "0xf3190c927fd0d539319cfc120af8e1940b08446af1c228b9a58646661166a76f",
+        "token0": {
+          "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+          "name": "USDe",
+          "symbol": "USDe"
+        },
+        "token1": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "txCount": "641"
+      },
+      {
+        "createdAtTimestamp": "1738368935",
+        "hooks": "0x0010d0d5db05933fa0d9f7038d365e1541a41888",
+        "id": "0xf704a91b641319b97542e3b1641ed3f528f34b51619fc21bca3d52b677b1f771",
+        "token0": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "token1": {
+          "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+          "name": "Coinbase Wrapped BTC",
+          "symbol": "cbBTC"
+        },
+        "txCount": "102"
+      },
+      {
+        "createdAtTimestamp": "1739911799",
+        "hooks": "0x0000fe59823933ac763611a69c88f91d45f81888",
+        "id": "0xfcb95f2277ef9524fb6a2e2c38209a7a3b955c34c933d2cdb570c1e9240fc475",
+        "token0": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "txCount": "1032"
+      },
+      {
+        "createdAtTimestamp": "1740425363",
+        "hooks": "0xede8ec3dbb11055a736612e174ab7b0b41028ac0",
+        "id": "0xff5e7a6002bc7a4b627d7647079a0dceeda716a9c30c44489426eea987576188",
+        "token0": {
+          "id": "0x0000000000000000000000000000000000000000",
+          "name": "Ethereum",
+          "symbol": "ETH"
+        },
+        "token1": {
+          "id": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+          "name": "Grow",
+          "symbol": "GROW"
+        },
+        "txCount": "566"
+      }
+    ]
+  }
+}
