@@ -1,9 +1,15 @@
-This repo is used to download V4 hook contracts. 
+# V4 Hook Contracts Downloader
 
-Step 1) Query UniswapV4's Subgraph at https://thegraph.com/explorer/subgraphs/DiYPVdygkfjDWhbxGSqAQxwBKmfKnkWQojqeM2rkLb3G?view=Query to retrieve all the addresses that satisfy certain conditions. 
+This repo is used to download Uniswap V4 hook contracts.
 
-In this example, I used the following query to retrieve pools with non-zero hook address that have total transaction count of greater than 100. 
+## Step 1: Query Uniswap V4 Subgraph
 
+Query the Uniswap V4 Subgraph at [The Graph Explorer](https://thegraph.com/explorer/subgraphs/DiYPVdygkfjDWhbxGSqAQxwBKmfKnkWQojqeM2rkLb3G?view=Query) to retrieve all the addresses that satisfy certain conditions.
+
+**Example Query:**  
+This query retrieves pools with a non-zero hook address and a total transaction count greater than 100.
+
+```graphql
 query Hooks {
   pools(
     where: {hooks_not: "0x0000000000000000000000000000000000000000", txCount_gt: "100"}
@@ -24,12 +30,29 @@ query Hooks {
     txCount
   }
 }
+```
 
-2) Retrieve the non duplicative hook address from the query return and feed them into fetch.js. Save your Etherscan API to .env
+## Step 2: Prepare Hook Addresses
 
-3) Install dependencies and run `node fetch.js` to save all hook addresses
+- Retrieve the unique hook addresses from the query result.
+- Add them to the `addresses` array in `fetch.js`.
+- Save your Etherscan API key in a `.env` file as `ETHERSCAN_API_KEY`.
 
-Note: 
-1) The script skips unverified contract addresses
-2) For proxy contracts, save both the proxy and implementation contracts
-3) Due to the rate limit of 5 calls per second from Etherscan API endpoint, the script makes no more than 5 calls per second
+## Step 3: Install Dependencies and Run
+
+```bash
+pnpm install
+node fetch.js
+```
+
+This will save all hook contract sources.
+
+---
+
+## Notes
+
+- The script **skips unverified contract addresses**.
+- For **proxy contracts**, both the proxy and implementation contracts are saved.
+- Due to the Etherscan API rate limit (5 calls per second), the script throttles requests accordingly.
+
+---
