@@ -29,6 +29,7 @@ query Hooks {
 
 3) Install dependencies and run `node fetch.js` to save all hook addresses
 
-Features:
-1) skip unverified contract addresses
+Note: 
+1) The script skips unverified contract addresses
 2) For proxy contracts, save both the proxy and implementation contracts
+3) Due to the rate limit of 5 calls per second from Etherscan API endpoint, the script makes no more than 5 calls per second
