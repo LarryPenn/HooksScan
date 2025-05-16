@@ -1,3 +1,4 @@
+require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 
@@ -13,7 +14,7 @@ const addresses = [
   "0x99d32f38aa4d1ec911420cba3b52d11cb9f0b0c0"
 ];
 
-const apiKey = '3UEDYJPTA3G7V5IS5KJ9CK16AUXM442PQY';
+const apiKey = process.env.ETHERSCAN_API_KEY;
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 // Sleep function: ms milliseconds
